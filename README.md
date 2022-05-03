@@ -7,4 +7,5 @@
 - https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 ## Authentication
+- https://developers.google.com/identity/protocols/oauth2
 - https://medium.com/google-cloud/understanding-oauth2-and-building-a-basic-authorization-server-of-your-own-a-beginners-guide-cf7451a16f66
