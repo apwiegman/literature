@@ -13,3 +13,6 @@
 
 ## Code Structure:
 - https://www.baeldung.com/cs/layered-architecture#:~:text=6.,apply%20them%20to%20larger%20projects.
+
+## Database Transaction
+- https://www.byteslounge.com/tutorials/spring-transaction-isolation-tutorial
