@@ -16,3 +16,4 @@
 
 ## Database Transaction
 - https://www.byteslounge.com/tutorials/spring-transaction-isolation-tutorial
+- https://www.byteslounge.com/tutorials/spring-transaction-propagation-tutorial
