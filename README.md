@@ -20,4 +20,4 @@
 - https://www.byteslounge.com/tutorials/spring-transaction-propagation-tutorial
 
 ## Books to Read
-- https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/B08VKMNDBN/ref=sr_1_1?crid=1HRXTOAJYZE93&keywords=designing+data-intensive+applications&qid=1652118716&sprefix=designing+%2Caps%2C127&sr=8-1
+- Designing Data-Intensive Applications [Book] - O'Reilly Media
