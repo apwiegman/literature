@@ -28,5 +28,9 @@
 ## Synchronous
 - https://www.baeldung.com/cs/async-vs-multi-threading
 
+
+## Kafka
+- https://www.kai-waehner.de/blog/2022/06/03/apache-kafka-request-response-vs-cqrs-event-sourcing/
+
 ## Books to Read
 - Designing Data-Intensive Applications [Book] - O'Reilly Media
