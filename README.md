@@ -24,5 +24,9 @@
 ## Microservices
 - https://microservices.io/
 
+
+## Synchronous
+- https://www.baeldung.com/cs/async-vs-multi-threading
+
 ## Books to Read
 - Designing Data-Intensive Applications [Book] - O'Reilly Media
