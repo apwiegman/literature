@@ -7,6 +7,7 @@
 - https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 - https://www.eksworkshop.com/
 - https://helm.sh/docs/
+- https://kubernetes.io/docs/reference/using-api/
 
 ## Authentication
 - https://developers.google.com/identity/protocols/oauth2
