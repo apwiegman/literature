@@ -39,3 +39,4 @@
 
 ## CQRS
 - https://medium.com/design-microservices-architecture-with-patterns/cqrs-design-pattern-in-microservices-architectures-5d41e359768c
+- https://martinfowler.com/bliki/CQRS.html
