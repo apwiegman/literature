@@ -36,3 +36,6 @@
 
 ## Books to Read
 - Designing Data-Intensive Applications [Book] - O'Reilly Media
+
+## CQRS
+- https://medium.com/design-microservices-architecture-with-patterns/cqrs-design-pattern-in-microservices-architectures-5d41e359768c
