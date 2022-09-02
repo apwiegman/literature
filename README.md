@@ -19,9 +19,10 @@
 - https://www.baeldung.com/cs/layered-architecture#:~:text=6.,apply%20them%20to%20larger%20projects.
 - https://gitlab.com/james.smith4/hexagonal-poc
 
-## Database Transactions
+## Database
 - https://www.byteslounge.com/tutorials/spring-transaction-isolation-tutorial
 - https://www.byteslounge.com/tutorials/spring-transaction-propagation-tutorial
+- https://www.cloudways.com/blog/mysql-performance-tuning/
 
 ## Microservices
 - https://microservices.io/
