@@ -26,6 +26,7 @@
 
 ## Microservices
 - https://microservices.io/
+- https://12factor.net/
 
 
 ## Synchronous
