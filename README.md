@@ -28,14 +28,15 @@
 - https://microservices.io/
 - https://12factor.net/
 
-
 ## Synchronous
 - https://www.baeldung.com/cs/async-vs-multi-threading
-
 
 ## Kafka
 - https://www.kai-waehner.de/blog/2022/06/03/apache-kafka-request-response-vs-cqrs-event-sourcing/
 - https://www.kai-waehner.de/blog/2022/05/30/error-handling-via-dead-letter-queue-in-apache-kafka/
+
+## Logging
+- https://logback.qos.ch/manual/layouts.html
 
 ## Books to Read
 - Designing Data-Intensive Applications [Book] - O'Reilly Media
