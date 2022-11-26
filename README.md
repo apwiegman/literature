@@ -23,6 +23,7 @@
 - https://www.byteslounge.com/tutorials/spring-transaction-isolation-tutorial
 - https://www.byteslounge.com/tutorials/spring-transaction-propagation-tutorial
 - https://www.cloudways.com/blog/mysql-performance-tuning/
+- (Streaming Database Changes) https://github.com/davidarchanjo/spring-boot-debezium-mysql
 
 ## Microservices
 - https://microservices.io/
