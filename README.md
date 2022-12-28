@@ -50,3 +50,6 @@
 ## Load Testing
 - https://github.com/gatling/gatling
 
+## Testing
+- https://www.vincenzoracca.com/en/blog/framework/spring/testcontainers-localstack/
+
