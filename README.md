@@ -36,7 +36,6 @@
 - https://www.kai-waehner.de/blog/2022/06/03/apache-kafka-request-response-vs-cqrs-event-sourcing/
 - https://www.kai-waehner.de/blog/2022/05/30/error-handling-via-dead-letter-queue-in-apache-kafka/
 - https://github.com/bstashchuk/apache-kafka-course/blob/master/basic-kafka-commands.txt
-- https://cloud.spring.io/spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka.html
 
 ## Logging
 - https://logback.qos.ch/manual/layouts.html
@@ -55,3 +54,6 @@
 - https://www.vincenzoracca.com/en/blog/framework/spring/testcontainers-localstack/
 - https://gist.github.com/rponte/8a46133aeca05f07ae49035879a18143
 
+## Springcloud Streams
+- https://refactorfirst.com/spring-cloud-stream-with-kafka-communication.html
+- https://cloud.spring.io/spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka.html
