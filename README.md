@@ -58,3 +58,4 @@
 - https://refactorfirst.com/spring-cloud-stream-with-kafka-communication.html
 - https://cloud.spring.io/spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka.html
 - https://tanzu.vmware.com/developer/guides/spring-cloud-stream-kafka-p1/
+- https://medium.com/@anupriyakumawat95/consume-messages-in-batch-using-spring-cloud-stream-kafka-binder-d82b0f4a9935
