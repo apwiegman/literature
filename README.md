@@ -52,4 +52,5 @@
 
 ## Testing
 - https://www.vincenzoracca.com/en/blog/framework/spring/testcontainers-localstack/
+- https://gist.github.com/rponte/8a46133aeca05f07ae49035879a18143
 
