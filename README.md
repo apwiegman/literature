@@ -36,6 +36,7 @@
 - https://www.kai-waehner.de/blog/2022/06/03/apache-kafka-request-response-vs-cqrs-event-sourcing/
 - https://www.kai-waehner.de/blog/2022/05/30/error-handling-via-dead-letter-queue-in-apache-kafka/
 - https://github.com/bstashchuk/apache-kafka-course/blob/master/basic-kafka-commands.txt
+- https://cloud.spring.io/spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka.html
 
 ## Logging
 - https://logback.qos.ch/manual/layouts.html
