@@ -57,3 +57,4 @@
 ## Springcloud Streams
 - https://refactorfirst.com/spring-cloud-stream-with-kafka-communication.html
 - https://cloud.spring.io/spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka.html
+- https://tanzu.vmware.com/developer/guides/spring-cloud-stream-kafka-p1/
