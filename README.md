@@ -29,9 +29,6 @@
 - https://microservices.io/
 - https://12factor.net/
 
-## Synchronous
-- https://www.baeldung.com/cs/async-vs-multi-threading
-
 ## Kafka
 - https://www.kai-waehner.de/blog/2022/06/03/apache-kafka-request-response-vs-cqrs-event-sourcing/
 - https://www.kai-waehner.de/blog/2022/05/30/error-handling-via-dead-letter-queue-in-apache-kafka/
@@ -62,3 +59,5 @@
 
 ## Reactive/ Asynchronous/ Webfluc
 - https://reflectoring.io/getting-started-with-spring-webflux/
+- https://www.baeldung.com/spring-mvc-async-vs-webflux
+- https://www.baeldung.com/cs/async-vs-multi-threading
