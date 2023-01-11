@@ -57,7 +57,11 @@
 - https://tanzu.vmware.com/developer/guides/spring-cloud-stream-kafka-p1/
 - https://medium.com/@anupriyakumawat95/consume-messages-in-batch-using-spring-cloud-stream-kafka-binder-d82b0f4a9935
 
-## Reactive/ Asynchronous/ Webfluc
+## Reactive/ Asynchronous/ Webflux
 - https://reflectoring.io/getting-started-with-spring-webflux/
 - https://www.baeldung.com/spring-mvc-async-vs-webflux
 - https://www.baeldung.com/cs/async-vs-multi-threading
+
+## Cache
+- https://docs.spring.io/spring-boot/docs/current/actuator-api/htmlsingle/#caches.evict-all
+
