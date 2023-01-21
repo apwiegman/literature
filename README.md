@@ -66,3 +66,7 @@
 ## Cache
 - https://docs.spring.io/spring-boot/docs/current/actuator-api/htmlsingle/#caches.evict-all
 
+## Distributed locks
+- https://medium.com/@bb8s/design-distributed-lock-with-mysql-9bc28ac59629
+- https://medium.com/@bb8s/design-distributed-lock-with-redis-e42f452cb60f
+
