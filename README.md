@@ -53,6 +53,7 @@
 - https://gist.github.com/rponte/8a46133aeca05f07ae49035879a18143
 
 ## Springcloud Streams
+- https://docs.awspring.io/spring-cloud-aws/docs/3.0.0-SNAPSHOT/reference/html/index.html#sqs-integration
 - https://refactorfirst.com/spring-cloud-stream-with-kafka-communication.html
 - https://cloud.spring.io/spring-cloud-stream-binder-kafka/spring-cloud-stream-binder-kafka.html
 - https://tanzu.vmware.com/developer/guides/spring-cloud-stream-kafka-p1/
