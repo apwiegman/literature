@@ -37,6 +37,7 @@
 
 ## Logging
 - https://logback.qos.ch/manual/layouts.html
+- https://clurgo.com/en/how-to-develop-software-more-flexibly-with-hexagonal-architecture/
 
 ## Books to Read
 - Designing Data-Intensive Applications [Book] - O'Reilly Media
