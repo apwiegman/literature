@@ -8,6 +8,7 @@
 - https://www.eksworkshop.com/
 - https://helm.sh/docs/
 - https://kubernetes.io/docs/reference/using-api/
+- https://www.youtube.com/watch?v=5_J7RWLLVeQ
 
 ## Authentication
 - https://developers.google.com/identity/protocols/oauth2
