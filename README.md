@@ -75,3 +75,6 @@
 - https://medium.com/@bb8s/design-distributed-lock-with-mysql-9bc28ac59629
 - https://medium.com/@bb8s/design-distributed-lock-with-redis-e42f452cb60f
 
+## AWS
+- https://www.bluematador.com/learn/aws-cli-cheatsheet
+
