@@ -79,5 +79,5 @@
 - https://www.bluematador.com/learn/aws-cli-cheatsheet
 
 ## Teraform
-https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
+- https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
 
