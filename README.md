@@ -91,3 +91,6 @@ You should implement Persistable in JPA when you have an entity with a composite
 ## Teraform
 - https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
 
+## UUID 
+- https://github.com/f4b6a3/uuid-creator
+
