@@ -16,6 +16,9 @@
 - https://protect-za.mimecast.com/s/fAfwC66yDnSrw6EtptN2Z?domain=toptal.com
 - https://support.kraken.com/hc/en-us/articles/360000906023-What-is-a-nonce-
 
+##
+- Restful API design https://www.youtube.com/watch?v=QpAhXa12xvU
+
 ## Code Structure:
 - https://www.baeldung.com/cs/layered-architecture#:~:text=6.,apply%20them%20to%20larger%20projects.
 - https://gitlab.com/james.smith4/hexagonal-poc
