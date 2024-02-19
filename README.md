@@ -16,7 +16,7 @@
 - https://protect-za.mimecast.com/s/fAfwC66yDnSrw6EtptN2Z?domain=toptal.com
 - https://support.kraken.com/hc/en-us/articles/360000906023-What-is-a-nonce-
 
-##
+## Rest API
 - Restful API design https://www.youtube.com/watch?v=QpAhXa12xvU
 
 ## Code Structure:
@@ -94,6 +94,9 @@ You should implement Persistable in JPA when you have an entity with a composite
 ## Teraform
 - https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
 
-## UUID 
-- https://github.com/f4b6a3/uuid-creator
+## Leadership
+- https://www.youtube.com/watch?v=uU9Pz0w6fe4
+  
+
+  
 
