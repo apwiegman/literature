@@ -11,6 +11,7 @@
 - https://www.youtube.com/watch?v=5_J7RWLLVeQ
 
 ## Authentication
+- https://oauth.net/2/
 - https://developers.google.com/identity/protocols/oauth2
 - https://medium.com/google-cloud/understanding-oauth2-and-building-a-basic-authorization-server-of-your-own-a-beginners-guide-cf7451a16f66
 - https://protect-za.mimecast.com/s/fAfwC66yDnSrw6EtptN2Z?domain=toptal.com
